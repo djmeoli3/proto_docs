@@ -11,4 +11,4 @@ parent: Measurement Equipment
 #### [User Guide](https://siglentna.com/wp-content/uploads/dlm_uploads/2017/10/SDM3045x_UserManual_UM06034-E01A.pdf)
 #### [Tutorial](https://www.youtube.com/watch?v=kLfcEqmhwCE)
 
-![Oscilloscope Image](../images/multimeter_tabletop.jpg)
+![Oscilloscope Image](../images/multimeter_tabletop.jpeg)
