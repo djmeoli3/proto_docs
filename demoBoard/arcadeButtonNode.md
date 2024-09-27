@@ -2,6 +2,7 @@
 title: Arcade Button Node
 layout: default
 parent: Demo Board
+nav_order: 1
 ---
 ## Arcade Button Node
 ![](../attachments/pxl_20240822_160133655.png)

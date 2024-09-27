@@ -2,6 +2,7 @@
 title: Sound Node
 layout: default
 parent: Demo Board
+nav_order: 1
 ---
 ## Sound Node
 ![](../attachments/pasted-image-20240822114638.png)

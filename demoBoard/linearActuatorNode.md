@@ -2,6 +2,7 @@
 title: Linear Actuator Node
 layout: default
 parent: Demo Board
+nav_order: 1
 ---
 ## Servo / Linear Actuator Node
 ![](../attachments/pxl_20240822_155323516.jpg)

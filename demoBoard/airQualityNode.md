@@ -2,6 +2,7 @@
 title: Air Quality Node
 layout: default
 parent: Demo Board
+nav_order: 1
 ---
 ## Air Quality Node
 ![](../attachments/pxl_20240716_214940816.jpg)

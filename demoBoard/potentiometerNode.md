@@ -2,6 +2,7 @@
 title: Potentiometer Node
 layout: default
 parent: Demo Board
+nav_order: 1
 ---
 ## Potentiometer Node
 

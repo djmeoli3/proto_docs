@@ -2,6 +2,7 @@
 title: Rotary Encoder Node
 layout: default
 parent: Demo Board
+nav_order: 1
 ---
 ![](../attachments/pxl_20240822_153808649.jpg)
 ### Hardware
