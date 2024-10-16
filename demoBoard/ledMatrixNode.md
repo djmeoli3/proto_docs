@@ -2,6 +2,7 @@
 title: LED Matrix Node
 layout: default
 parent: Demo Board
+nav_order: 1
 ---
 ## LED Matrix Node
 ![](../attachments/pxl_20240715_201005331.jpg)

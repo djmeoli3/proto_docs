@@ -2,6 +2,7 @@
 title: LCD Node
 layout: default
 parent: Demo Board
+nav_order: 1
 ---
 ## LCD Display Node
 ![](../attachments/pxl_20240822_154147049.png)

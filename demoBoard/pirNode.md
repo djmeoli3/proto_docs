@@ -2,6 +2,7 @@
 title: PIR Node
 layout: default
 parent: Demo Board
+nav_order: 1
 ---
 
 ## PIR Node

@@ -2,6 +2,7 @@
 title: IR Distance Node
 layout: default
 parent: Demo Board
+nav_order: 1
 ---
 ## IR Distance Node
 ![](../attachments/pxl_20240711_130039653.jpg)
